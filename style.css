@@ -3,10 +3,10 @@
 .jumbotron {
 
     text-align: center;
-    background-color:black;
+    background-color:rgb(85, 6, 141);
     color: whitesmoke;
     border-radius: 0;
+    font-family: Arial, Helvetica, sans-serif;
     
 
 }
-)
